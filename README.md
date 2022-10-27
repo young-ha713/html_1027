@@ -171,6 +171,26 @@ valu=""는 url에 돌아가는 값 (직접 입력하지 않을경우에)
   
   
   
+id는 유니크해야 정상  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+![image](https://user-images.githubusercontent.com/80766275/198207521-06c32680-21f0-4441-ade9-26cd2eaf8970.png)
+  
+  
+  
+  
+
+  
   
 
 
