@@ -166,8 +166,8 @@ valu=""는 url에 돌아가는 값 (직접 입력하지 않을경우에)
 헤드사이에 많이 둠  
   
   
-  
-![image](https://user-images.githubusercontent.com/80766275/198205765-ada1bc6c-a079-47bf-bd3d-5743fced2da2.png)
+  ![image](https://user-images.githubusercontent.com/80766275/198212180-3fe2905a-1381-4229-b0f6-46423307d912.png)
+
   
   
   
